@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **dulakshanwije/dulakshanwije** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🔭 I’m currently working on my new personal Android project.
+- 🌱 I’m currently learning at Wayamba University of Sri Lanka and I am following BSc (Joint Major) Degree in Computing & Information Systems and Electronics.
+- 👨‍🔧 I'm an enthusiastic, self-motivated, and hardworking undergraduate student who is interested in developing mobile applications and web applications using the newest technologies.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
