@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my new personal Android project.
-- 🌱 I’m currently learning at Wayamba University of Sri Lanka and I am following BSc (Joint Major) Degree in Computing & Information Systems and Electronics.
+- 🔭 I’m currently working on my new personal Python development project.
+- 🌱 I have completed all coursework for my BSc (Joint Major) Degree in Computing & Information Systems and Electronics at Wayamba University of Sri Lanka and expect to graduate soon.
 - 👨‍🔧 I'm an enthusiastic, self-motivated, and hardworking undergraduate student who is interested in developing mobile applications and web applications using the newest technologies.
 <!--
 - 👯 I’m looking to collaborate on ...
